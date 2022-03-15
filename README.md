@@ -1,2 +1,2 @@
-# gorillaz_exercices
+# gorilla_exercices
 Gorillaz exercice
